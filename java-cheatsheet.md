@@ -1,9 +1,4 @@
----
-title: Java CheatSheet
-description: The most commonly used java concepts are given here.
-created: 2022-10-21
----
-
+# Appendix to this project
 ## Table of Contents
 
 - [Java CheatSheet for Developers](#java-cheatsheet-for-developers)
